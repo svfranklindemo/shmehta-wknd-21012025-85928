@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--{repo}--{owner}.aem.live/
-- After: https://<branch>--{repo}--{owner}.aem.live/
+- Before: https://main--shmehta-wknd-21012025-85928--svfranklindemo.aem.live/
+- After: https://<branch>--shmehta-wknd-21012025-85928--svfranklindemo.aem.live/
