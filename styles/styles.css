@@ -12,7 +12,7 @@
 
 :root {
   /* colors */
-  --background-color: #000000;
+  --background-color: #ffffff;
   --light-color: #333333;
   --dark-color: #00ff00;
   --text-color: #ffffff;
@@ -225,7 +225,6 @@ main img {
 .icon img {
   height: 100%;
   width: 100%;
-  filter: invert(1);
 }
 
 /* sections */
