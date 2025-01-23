@@ -225,6 +225,7 @@ main img {
 .icon img {
   height: 100%;
   width: 100%;
+  filter: invert(1);
 }
 
 /* sections */
